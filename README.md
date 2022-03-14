@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on improve my programming skills.
 
-- 🌱 I’m currently learning about baas, heroku, docker, react and express.
+- 🌱 I’m currently learning about nuxtjs.
 
 - 💬 Talk to me about new technologies, good practices and open source software.
   
